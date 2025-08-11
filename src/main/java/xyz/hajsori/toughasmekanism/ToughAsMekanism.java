@@ -1,9 +1,9 @@
-package dev.dercoderjo.toughasmekanism;
+package xyz.hajsori.toughasmekanism;
 
 import com.mojang.logging.LogUtils;
-import dev.dercoderjo.toughasmekanism.registry.TAMInventoryTabs;
-import dev.dercoderjo.toughasmekanism.registry.TAMItems;
-import dev.dercoderjo.toughasmekanism.registry.TAMModules;
+import xyz.hajsori.toughasmekanism.registry.TAMInventoryTabs;
+import xyz.hajsori.toughasmekanism.registry.TAMItems;
+import xyz.hajsori.toughasmekanism.registry.TAMModules;
 import mekanism.api.MekanismIMC;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;

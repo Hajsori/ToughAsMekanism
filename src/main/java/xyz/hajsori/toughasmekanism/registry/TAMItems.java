@@ -1,6 +1,6 @@
-package dev.dercoderjo.toughasmekanism.registry;
+package xyz.hajsori.toughasmekanism.registry;
 
-import dev.dercoderjo.toughasmekanism.ToughAsMekanism;
+import xyz.hajsori.toughasmekanism.ToughAsMekanism;
 import mekanism.common.item.ItemModule;
 import mekanism.common.registration.impl.ItemDeferredRegister;
 import mekanism.common.registration.impl.ItemRegistryObject;

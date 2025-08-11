@@ -1,7 +1,7 @@
-package dev.dercoderjo.toughasmekanism.item.module;
+package xyz.hajsori.toughasmekanism.item.module;
 
-import dev.dercoderjo.toughasmekanism.Config;
-import dev.dercoderjo.toughasmekanism.ToughAsMekanism;
+import xyz.hajsori.toughasmekanism.Config;
+import xyz.hajsori.toughasmekanism.ToughAsMekanism;
 import mekanism.api.gear.*;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.player.Player;

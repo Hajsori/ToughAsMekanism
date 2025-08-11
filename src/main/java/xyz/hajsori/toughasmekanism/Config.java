@@ -1,4 +1,4 @@
-package dev.dercoderjo.toughasmekanism;
+package xyz.hajsori.toughasmekanism;
 
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
@@ -7,7 +7,7 @@ import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.event.config.ModConfigEvent;
 import net.neoforged.neoforge.common.ModConfigSpec;
 
-@EventBusSubscriber(modid = ToughAsMekanism.MODID, bus = EventBusSubscriber.Bus.MOD)
+@EventBusSubscriber(modid = ToughAsMekanism.MODID)
 public class Config {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
 

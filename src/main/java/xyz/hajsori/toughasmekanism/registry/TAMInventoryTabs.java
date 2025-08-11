@@ -1,6 +1,6 @@
-package dev.dercoderjo.toughasmekanism.registry;
+package xyz.hajsori.toughasmekanism.registry;
 
-import dev.dercoderjo.toughasmekanism.ToughAsMekanism;
+import xyz.hajsori.toughasmekanism.ToughAsMekanism;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;

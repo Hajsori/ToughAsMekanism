@@ -1,6 +1,6 @@
-package dev.dercoderjo.toughasmekanism.item.module;
+package xyz.hajsori.toughasmekanism.item.module;
 
-import dev.dercoderjo.toughasmekanism.Config;
+import xyz.hajsori.toughasmekanism.Config;
 import mekanism.api.gear.ICustomModule;
 import mekanism.api.gear.IModule;
 import mekanism.api.gear.IModuleContainer;
